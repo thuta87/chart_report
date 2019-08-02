@@ -1,0 +1,12 @@
+.canvas{
+  
+  width:2000px !important;
+  height:1600px !important;
+
+}
+
+#search_btn #period_grp{
+	display: flex;
+	align-items: center; 
+	justify-content: center;	
+}
